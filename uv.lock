@@ -160,6 +160,7 @@ dependencies = [
     { name = "jupyter" },
     { name = "matplotlib" },
     { name = "netcdf4" },
+    { name = "pandas" },
     { name = "xarray" },
 ]
 
@@ -169,6 +170,7 @@ requires-dist = [
     { name = "jupyter", specifier = ">=1.1.1" },
     { name = "matplotlib", specifier = ">=3.11.2" },
     { name = "netcdf4", specifier = ">=1.7.4" },
+    { name = "pandas", specifier = ">=3.0.6" },
     { name = "xarray", specifier = ">=2026.7.0" },
 ]
 
